@@ -1,4 +1,4 @@
-# FAACTFPxplane11
+# FAA CTFP X-plane11
 Hello In this article I will teach you how to use the FAA's CIFP For **Xplane11**
 
 ## Download CIFP
@@ -29,7 +29,7 @@ Hello In this article I will teach you how to use the FAA's CIFP For **Xplane11*
 
 5.You can now open the run.bat and Wait for Completion
 
-![alt text](https://cdn.discordapp.com/attachments/783189981878943815/926925263181320232/Screenshot_2022-01-02_034736.jpg "Open bat")
+![alt text](https://cdn.discordapp.com/attachments/783189981878943815/926925998971293776/Screenshot_2022-01-02_034736.jpg "Open bat")
 
 ## Completion
 
