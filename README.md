@@ -33,4 +33,4 @@ Hello In this article I will teach you how to use the FAA's CIFP For **Xplane11*
 
 ## Completion
 
-You made it! Enjoy fly
+You made it! Enjoy fly **Remember to update the CIFP every 28 days**
