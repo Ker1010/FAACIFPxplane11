@@ -1,4 +1,4 @@
-# FAA CTFP X-plane11
+# FAA CIFP X-plane11
 Hello In this article I will teach you how to use the FAA's CIFP For **Xplane11**
 
 ## Download CIFP
